@@ -1,2 +1,9 @@
 hi this is naveen for updation of files
 for stash.
+checking file for push
+checking
+testing.
+rebase checking.
+trying to merge local changes
+checking for stash.
+
