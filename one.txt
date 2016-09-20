@@ -6,4 +6,5 @@ testing.
 rebase checking.
 trying to merge local changes
 checking for stash.
+doing it for merge
 
